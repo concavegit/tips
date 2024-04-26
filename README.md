@@ -1,2 +1,2 @@
 # tips
-Wiki to help others do software engineering at least as well as I do
+Most of my value as a software engineer comes from my ability to find the right tool, debug issues, design systems, and plan projects. These topics may seem generic, but there are some specific procedures I have that are responsible for most of my edge in those areas. This repository contains a [Wiki](https://github.com/concavegit/tips/wiki) with tips to help others be at least as good of a software engineer as I am.
